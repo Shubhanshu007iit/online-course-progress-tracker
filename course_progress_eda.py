@@ -48,3 +48,12 @@ with open("kpis.txt", "w") as f:
 
 print("KPI metrics saved to kpis.txt")
 
+"C:\Users\Asus\OneDrive\Pictures\Screenshot 2025-08-02 220547.png"
+"C:\Users\Asus\OneDrive\Pictures\Screenshot 2025-08-02 220637.png"
+"C:\Users\Asus\OneDrive\Pictures\Screenshot 2025-08-02 220653.png"
+"C:\Users\Asus\OneDrive\Pictures\Screenshot 2025-08-02 220707.png"
+"C:\Users\Asus\OneDrive\Pictures\Screenshot 2025-08-02 220730.png"
+"C:\Users\Asus\OneDrive\Pictures\Screenshot 2025-08-02 220743.png"
+
+
+
