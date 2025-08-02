@@ -1,0 +1,20 @@
+﻿UserID,Name,Course Name,Modules con,total Module,%,Status
+1,Ram,Python101,10,10,60,InProgress
+2,Alice,Datascience102,8,10,100,Completed
+3,Malan,ML103,6,10,80,Dropout
+4,Jack,Finanacial Economics104,6,10,20,InProgress
+5,Nova,Fsd105,5,10,40,Dropout
+6,Bob,Data Analytics106,4,10,30,InProgress
+7,Prince,Mathematics107,3,10,70,Completed
+8,Sam,English108,1,10,50,Dropout
+9,Stokes,Ai109,8.7,10,10,InProgress
+10,Ben,Computer Science110,7.5,10,90,Completed
+11,Taylor,Adv Excell111,6.1,10,85,Dropout
+12,Joe,SST 112,3.8,10,75,Completed
+13,Roy,Geospatial113,4.7,10,65,InProgress
+14,Smith,cybersecurity114,3.1,10,35,Dropout
+15,Max,Polity115,4.1,10,45,InProgress
+16,Roky,Taxes116,5.5,10,55,Completed
+17,Charlie,Account117,7.8,10,88,InProgress
+18,Doms,Physics118,8.5,10,95,Dropout
+19,Sweak,Chemistry119,3.5,10,15,Completed
